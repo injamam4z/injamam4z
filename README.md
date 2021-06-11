@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @injamam4z
+- 👋 Hi, I’m Injamam
 - 👀 I’m interested in Mobile Application Development 
 - 🌱 I’m currently learning Google Design pattern,Kotlin,ML
 - 💞️ I’m looking to collaborate on ...
